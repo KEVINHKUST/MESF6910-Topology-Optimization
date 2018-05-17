@@ -1,0 +1,74 @@
+.helpful-block-content{
+	background: #F1F1F1;
+	border: 1px solid #DBD8D8;
+	padding: 20px;
+	margin: 0 0 20px;
+	position: relative;
+	overflow: auto;
+	color: #555;
+	font-family: arial;
+	font-size: 13px;
+}
+.helpful-block-content ul, .helpful-block-content ul p {
+	margin-bottom: 0px !important;
+}
+
+.helpful-block-content .loader{
+	background:url(ajax-loader.gif) no-repeat;
+	width:43px;
+	height:11px;
+	margin:3px;
+}
+
+.helpful-block-content .success {
+	color:#24890D;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.helpful-block-content .error {
+	color: #FF0000;
+}
+
+.helpful-block-content span.wthp_title{
+	font-weight		: bold;
+	font-size		: 14px;
+}
+
+.helpful-block-content ul li{
+	display:	inline;
+	list-style:	none;
+	margin: 	5px;
+}
+
+.helpful-block-content ul li a{
+	display			: inline-block;
+	border-radius	: 3px;
+	border			: 1px solid #d2d2d2;
+	text-align		: center;
+	padding			: 4px 12px;
+	text-decoration	: none;
+	color			: #444;
+	font-weight		: bold;
+	
+	background: rgb(254,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(254,255,255,1) 0%, rgba(234,233,233,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(254,255,255,1)), color-stop(100%,rgba(234,233,233,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(234,233,233,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(234,233,233,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(234,233,233,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom, rgba(254,255,255,1) 0%,rgba(234,233,233,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#eae9e9',GradientType=0 ); /* IE6-9 */
+
+}
+.helpful-block-content ul li a:hover {
+	background: #fff;
+}
+.helpful-block-content ul li textarea#message {
+	margin-top: 0px !important;
+	clear: both;
+	display: block;
+	border: 1px solid #DBD8D8;
+	min-height: 100px;
+	width: 97%;
+}

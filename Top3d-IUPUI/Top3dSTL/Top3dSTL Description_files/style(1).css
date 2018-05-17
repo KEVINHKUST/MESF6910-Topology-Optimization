@@ -1,0 +1,207 @@
+/* 
+Theme Name: Responsive Child Theme
+Theme URI: http://cyberchimps.com/guide/child-theme-example/
+Description: Responsive Child Theme
+Template: responsive
+Version: 1.0.0
+Author: CyberChimps
+Author URI: https://cyberchimps.com/
+License: GNU General Public License
+License URI: license.txt
+
+*/
+
+/* =Start From Here
+-------------------------------------------------------------- */
+#identity {
+	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 0.625em;
+	height: 44px;
+	line-height: 1em;
+	width: auto;
+}
+#identity #signature {
+	height: 44px;
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	width: 960px;
+}
+#identity #signature a.iupui {
+	background: url(_images/iupui_black.gif) no-repeat 20px 0;
+	display: block;
+	height: 44px;
+	left: -20px;
+	position: relative;
+	top: 0;
+	width: 429px;
+}
+#identity #signature a.iupui img {
+	display: none;
+}
+#container #header {
+	margin: 0;
+	background: url("_images/bg-main-grey.jpg") no-repeat scroll -750px -80px rgba(0, 0, 0, 0)
+}
+#logo {
+	float: left;
+	margin: 0;
+	padding: 0 1rem;
+}
+.menu, .menu ul {
+	display: block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0 0.5rem;
+}
+
+/* */
+blockquote p {
+font-size: 14px;
+line-height: 2em;
+}
+/* Homepage featured */
+#featured p {
+ font-size: 16px;
+ font-weight: 200;
+ line-height: 2rem;
+ padding: 0 45px;
+ text-align: center;
+}
+#featured p.intro:first-letter {
+	font-size: 170%;
+}
+.revision {
+	font-size: 12px;
+	font-style: italic;
+	font-weight: 200;
+	line-height: 2rem;
+	padding: 0 20px;
+	text-align: center;
+}
+#featured ul {
+	list-style-type: circle;
+	padding-left: 80px;
+}
+.front-page #wrapper {
+	margin: 20px 0 0;
+}
+/* Home widgets */
+#home_widget_3 ul {
+	/*	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2; */
+	list-style-type: circle;
+	margin: 0 1.5em 0.5em 0.5em;
+}
+#home_widget_3 p {
+	margin: 0
+}
+#home_widget_3 div.small {
+	position: absolute;
+	right: 20px;
+}
+.myfooterbox {
+	color: #555555;
+	display: block;
+	text-align: center;
+	background-color: #F9F9F9;
+	border: 1px solid #E5E5E5;
+	border-radius: 4px;
+	margin: 0 0 20px;
+	padding: 20px;
+}
+
+.titleBar{
+	background:none repeat scroll 0 0 rgba(0, 0, 0, 0);
+	border-bottom: 1px solid #EEEEEE;
+	border-top: 1px solid #EEEEEE;
+	padding: 18px 0;
+	text-align: center;
+}
+
+/* Post Meta */
+.meta ul{
+	overflow: hidden;
+	margin-bottom: 7px;
+	margin-left: -2px; 
+	padding-left: 0px;
+}
+
+.meta .comments{
+	background:url('_images/comment.png') left center no-repeat;
+	padding-left: 19px;
+}
+.meta .postin{
+	background:url('_images/postin.png') left center no-repeat;
+	padding-left: 18px;
+}
+.meta .post_date{
+	background:url('_images/date.png') left center no-repeat;
+	padding-left: 20px;
+	margin-left:2px;
+}
+.meta .user{
+	background:url('_images/user.png') left center no-repeat;
+	padding-left: 18px;
+}
+
+.meta ul li{
+	color:#999999; 
+	font-size: 10px;
+	float:left;
+	margin:7px; 
+	padding-left: 10px;
+	list-style-type:none
+}
+
+/* Contact info */
+ul.contact-info{
+	margin-top:4px; 
+	padding:0 4px;
+
+}
+ul.contact-info li{
+	background:url('_images/user.png') 2px 6px no-repeat;
+	padding:4px 6px 4px 26px;
+	margin:0;
+	margin-bottom: 0;
+	display: block;
+	border-bottom: 1px dashed #cccccc;
+	
+}
+ul.contact-info li.address{
+	border-width: 0 0 1px;
+	background:url('_images/location.png') 2px 6px no-repeat;
+}
+ul.contact-info li.email{
+	background:url('_images/mail.png') 3px 6px no-repeat; 
+}
+ul.contact-info li.phone{
+	background:url('_images/phone.png') 2px 6px no-repeat;
+}
+
+ul.contact-info li.web{
+	background:url('_images/website.png') 2px 6px no-repeat;
+}
+
+/* Heading */
+.heading{
+	background:url('_images/sep.png') repeat-x 0 50%;
+	margin-bottom: 5px;
+}
+
+.heading h1,
+.heading h2,
+.heading h3,
+.heading h4,
+.heading h5,
+.heading h6{
+	display: inline-block;
+	padding-right: 8px;
+	background-color: #FFF;
+	background-image: none;
+}
+
+/*The last 29 days of the month are the hardest."- Nikola Tesla*/
