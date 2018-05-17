@@ -1,0 +1,11 @@
+/COM,ANSYS RELEASE Release 16.1      BUILD 16.1      UP20150325       23:48:56
+
+ *** FATAL ***                           CP =       1.578   TIME= 23:48:58
+ The version size limits( NODES )have been exceeded.                     
+  Contact your ANSYS support person for more information.                
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************

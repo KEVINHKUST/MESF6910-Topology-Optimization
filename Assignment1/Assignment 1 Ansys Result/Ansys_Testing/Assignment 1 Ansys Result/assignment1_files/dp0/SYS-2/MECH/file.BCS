@@ -1,0 +1,40 @@
+
+  Performance statistics for Boeing sparse solver: icalls =      1
+
+ ===========================
+ = multifrontal statistics =
+ ===========================
+
+     number of equations                     =           42911
+     no. of nonzeroes in lower triangle of a =          642529
+     number of compressed nodes              =           21099
+     no. of compressed nonzeroes in l. tri.  =          151393
+     amount of workspace currently in use    =         6382277
+     max. amt. of workspace used             =        28239345
+     no. of nonzeroes in the factor l        =         4489235.
+     number of super nodes                   =            2238
+     number of compressed subscripts         =          146944
+     size of stack storage                   =          276974
+     maximum order of a front matrix         =             530
+     maximum size of a front matrix          =          140715
+     maximum size of a front trapezoid       =           31840
+     no. of floating point ops for factor    =      7.9514D+08
+     no. of floating point ops for solve     =      1.5242D+07
+     actual no. of nonzeroes in the factor l =         4489235.
+     actual number of compressed subscripts  =          146944
+     actual size of stack storage used       =          323142
+     negative pivot monitoring activated
+     number of negative pivots encountered   =              0.
+     factorization panel size                =              64
+     factorization update panel size         =              32
+     solution block size                     =               2
+     number of cores used                    =               2
+     time (cpu & wall) for structure input   =        0.031000        0.042079
+     time (cpu & wall) for ordering          =        0.140000        0.134357
+     time (cpu & wall) for symbolic factor   =        0.000000        0.004081
+     time (cpu & wall) for value input       =        0.032000        0.037270
+     time (cpu & wall) for numeric factor    =        0.078000        0.073125
+     computational rate (mflops) for factor  =    10194.122987    10873.782150
+     condition number estimate               =      0.0000D+00
+
+     no input or output performed

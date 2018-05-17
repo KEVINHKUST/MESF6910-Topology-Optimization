@@ -1,0 +1,12 @@
+﻿# encoding: utf-8
+# Release 16.1
+SetScriptVersion(Version="16.1.91")
+favorites1 = EngData.LoadFavoriteItems()
+EngData.EnableFilter(Enable=False)
+EngData.EnableFilter()
+system1 = GetSystem(Name="SYS")
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometry1.Edit()
+geometry1.Exit()
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()

@@ -1,0 +1,33 @@
+The answer is no.
+The strain(stress) results are not equal at shared nodes.
+You can compare the results in the excel file.
+For the same node shared by two different elements, the strains are not identical.
+I use the same color marking some nodes which shared by two elements in the Strain_at_Node_Position and Stress_at_Node_Position.
+And we can see that they are quite different. 
+
+The reason: 
+
+For the node in different position, the B matrix is different.
+i.e.
+Bleftbottom
+-10	0	10	0	0	0	0	0
+0	-10	0	0	0	0	0	10
+-10	-10	0	10	0	0	10	0
+
+Bleftupper
+0	0	0	0	10	0	-10	0
+0	-10	0	0	0	0	0	10
+-10	0	0	0	0	10	10	-10
+
+
+You can see that£º
+the second row of Bleftbottom matrix means that the y direction strain is related to the element's leftbottom node y direction displacement and the element's leftupper node y direction displacement.
+
+However, the second row of Bleftupper matrix means that the y direction strain is also related to the element's leftbottom node y direction displacement and the element's leftupper node y direction displacement.
+
+If the node is shared by two elements, in one element it is left bottom node and in another element it becomes the left upper node.
+
+The y direction strain can be the same only when the shared node's y direction displacement is the average of the two not shared left nodes' y displacement.for example the y displacement is liner along the left side of two elements.
+
+This problem can be much harder to solve when the shared node is share by four elements. 
+   

@@ -1,0 +1,220 @@
+
+ ANSYS Academic Teaching Advanced                  
+
+
+ *------------------------------------------------------------------*
+ |                                                                  |
+ |   W E L C O M E   T O   T H E   A N S Y S (R)  P R O G R A M     |
+ |                                                                  |
+ *------------------------------------------------------------------*
+
+
+
+
+ ***************************************************************
+ *            ANSYS Release 16.1     LEGAL NOTICES             *
+ ***************************************************************
+ *                                                             *
+ * Copyright 2015 SAS IP, Inc.  All rights reserved.           *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of ANSYS, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the ANSYS, Inc. online documentation or the ANSYS, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * ANSYS, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * ANSYS, Inc. is a UL registered                              *
+ * ISO 9001:2008 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the ANSYS, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the ANSYS, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+ Release 16.1
+     
+ Point Releases and Patches installed:   
+     
+ ANSYS, Inc. Products Release 16.1   
+ ANSYS Mechanical Products Release 16.1  
+ ANSYS Customization Files for User Programmable Features Release 16.1   
+ ANSYS Autodyn Release 16.1  
+ ANSYS CFX (includes ANSYS CFD-Post) Release 16.1
+ ANSYS Fluent (includes ANSYS CFD-Post) Release 16.1 
+ ANSYS TurboGrid Release 16.1
+ ANSYS Polyflow (includes ANSYS CFD-Post) Release 16.1   
+ ANSYS CFD-Post only Release 16.1
+ ANSYS ICEM CFD Release 16.1 
+ ANSYS Icepak (includes ANSYS CFD-Post) Release 16.1 
+ ANSYS, Inc. License Manager Release 16.1
+
+
+          *****  ANSYS COMMAND LINE ARGUMENTS  *****
+  BATCH MODE REQUESTED (-b)    = NOLIST
+  INPUT FILE COPY MODE (-c)    = COPY
+  SHARED MEMORY PARALLEL REQUESTED
+    SINGLE PROCESS WITH   2 THREADS REQUESTED
+    TOTAL OF     2 CORES REQUESTED
+  DESIGNXPLORER REQUESTED
+  START-UP FILE MODE           = NOREAD
+  STOP FILE MODE               = NOREAD
+
+ RELEASE= Release 16.1         BUILD= 16.1      UP20150325   VERSION=WINDOWS x64 
+ CURRENT JOBNAME=file  23:48:57  MAR 10, 2018 CP=      1.031
+
+
+ PARAMETER _DS_PROGRESS =     999.0000000    
+
+ /INPUT FILE= ds.dat  LINE=       0
+
+ *GET  _WALLSTRT  FROM  ACTI  ITEM=TIME WALL  VALUE=  23.8158333    
+
+ TITLE= 
+ assignment1--Static Structural (B5)                                           
+
+
+ SET PARAMETER DIMENSIONS ON  _WB_PROJECTSCRATCH_DIR
+  TYPE=STRI  DIMENSIONS=      248        1        1
+
+ PARAMETER _WB_PROJECTSCRATCH_DIR(1) = C:\Users\kchenau\Desktop\Ansys_Testing\Assignment 1 Ansys Result\_ProjectScratch\Scr67D4\
+
+ SET PARAMETER DIMENSIONS ON  _WB_SOLVERFILES_DIR
+  TYPE=STRI  DIMENSIONS=      248        1        1
+
+ PARAMETER _WB_SOLVERFILES_DIR(1) = C:\Users\kchenau\Desktop\Ansys_Testing\Assignment 1 Ansys Result\assignment1_files\dp0\SYS-1\MECH\
+
+ SET PARAMETER DIMENSIONS ON  _WB_USERFILES_DIR
+  TYPE=STRI  DIMENSIONS=      248        1        1
+
+ PARAMETER _WB_USERFILES_DIR(1) = C:\Users\kchenau\Desktop\Ansys_Testing\Assignment 1 Ansys Result\assignment1_files\user_files\
+ --- Data in consistent MKS units. See Solving Units in the help system for more
+
+ MKS UNITS SPECIFIED FOR INTERNAL    
+  LENGTH        (l)  = METER (M)
+  MASS          (M)  = KILOGRAM (KG)
+  TIME          (t)  = SECOND (SEC)
+  TEMPERATURE   (T)  = CELSIUS (C)
+  TOFFSET            = 273.0
+  CHARGE        (Q)  = COULOMB
+  FORCE         (f)  = NEWTON (N) (KG-M/SEC2)
+  HEAT               = JOULE (N-M)
+
+  PRESSURE           = PASCAL (NEWTON/M**2)
+  ENERGY        (W)  = JOULE (N-M)
+  POWER         (P)  = WATT (N-M/SEC)
+  CURRENT       (i)  = AMPERE (COULOMBS/SEC)
+  CAPACITANCE   (C)  = FARAD
+  INDUCTANCE    (L)  = HENRY
+  MAGNETIC FLUX      = WEBER
+  RESISTANCE    (R)  = OHM
+  ELECTRIC POTENTIAL = VOLT
+
+ INPUT  UNITS ARE ALSO SET TO MKS 
+
+ *** ANSYS - ENGINEERING ANALYSIS SYSTEM  RELEASE Release 16.1     16.1     ***
+ ANSYS Academic Teaching Advanced                  
+ 00232376  VERSION=WINDOWS x64   23:48:57  MAR 10, 2018 CP=      1.078
+
+ assignment1--Static Structural (B5)                                           
+
+
+
+          ***** ANSYS ANALYSIS DEFINITION (PREP7) *****
+ *********** Nodes for the whole assembly ***********
+ *********** Elements for Body 1 "Surface Body" ***********
+
+ *** FATAL ***                           CP =       1.578   TIME= 23:48:58
+ The version size limits( NODES )have been exceeded.                     
+  Contact your ANSYS support person for more information.                
+
+ ************************************************************************
+ The above error is non-recoverable by ANSYS                             
+  ANSYS run terminated by the indicated error                            
+  Current data base saved if possible.                                   
+ ************************************************************************
+
++--------------------- A N S Y S   S T A T I S T I C S ------------------------+
+
+Release: Release 16.1       Build: 16.1       Update: UP20150325   Platform: WINDOWS x64 
+Date Run: 03/10/2018   Time: 23:48
+Windows Process ID:        18960
+
+Processor Model: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+
+Compiler: Intel(R) FORTRAN Compiler Version 14.0.0  (Build: 20140422)
+          Intel(R) C/C++ Compiler Version 14.0.0  (Build: 20140422)
+          Intel(R) Math Kernel Library Version 11.1.3 Product Build 20140917
+
+Total number of cores available         :    8
+Number of physical cores available      :    4
+Number of processes requested           :    1
+Number of threads per process requested :    2
+Total number of cores requested         :    2 (Shared Memory Parallel)                    
+
+GPU Acceleration: Not Requested
+
+Job Name: file
+Working Directory: C:\Users\kchenau\Desktop\Ansys_Testing\Assignment 1 Ansys Result\_ProjectScratch\Scr67D4
+
+Total CPU time for main thread                    :        1.6 seconds
+Total CPU time summed for all threads             :        1.6 seconds
+
+Elapsed time spent pre-processing model (/PREP7)  :        0.0 seconds
+Elapsed time spent solution - preprocessing       :        0.0 seconds
+Elapsed time spent computing solution             :        0.0 seconds
+Elapsed time spent solution - postprocessing      :        0.0 seconds
+Elapsed time spent post-processing model (/POST1) :        0.0 seconds
+
+Maximum total memory used                         :      128.0 MB
+Maximum total memory allocated                    :     2112.0 MB
+Maximum total memory available                    :         16 GB
+
++------------------ E N D   A N S Y S   S T A T I S T I C S -------------------+
+
+
+ *---------------------------------------------------------------------------*
+ |                                                                           |
+ |                            ANSYS RUN COMPLETED                            |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Ansys Release 16.1          Build 16.1         UP20150325     WINDOWS x64 |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ | Database Requested(-db)  1024 MB    Scratch Memory Requested      1024 MB |
+ | Maximum Database Used      95 MB    Maximum Scratch Memory Used     33 MB |
+ |                                                                           |
+ |---------------------------------------------------------------------------|
+ |                                                                           |
+ |        CP Time      (sec) =          1.594       Time  =  23:48:58        |
+ |        Elapsed Time (sec) =          3.000       Date  =  03/10/2018      |
+ |                                                                           |
+ *---------------------------------------------------------------------------*

@@ -1,0 +1,1942 @@
+move lift = 0.05
+Top99_240_120(240, 120, 0.3, 5, 0.0001)
+It.:   1Obj.:    0.1280 Vol.:  0.257 ch.:  0.050
+It.:   2Obj.:    0.1330 Vol.:  0.230 ch.:  0.050
+It.:   3Obj.:    0.1497 Vol.:  0.232 ch.:  0.050
+It.:   4Obj.:    0.1166 Vol.:  0.216 ch.:  0.050
+It.:   5Obj.:    0.1311 Vol.:  0.212 ch.:  0.050
+It.:   6Obj.:    0.0966 Vol.:  0.190 ch.:  0.050
+It.:   7Obj.:    0.0886 Vol.:  0.171 ch.:  0.050
+It.:   8Obj.:    0.0621 Vol.:  0.142 ch.:  0.050
+It.:   9Obj.:    0.0545 Vol.:  0.121 ch.:  0.050
+It.:  10Obj.:    0.0440 Vol.:  0.103 ch.:  0.050
+It.:  11Obj.:    0.0383 Vol.:  0.089 ch.:  0.050
+It.:  12Obj.:    0.0310 Vol.:  0.076 ch.:  0.050
+It.:  13Obj.:    0.0265 Vol.:  0.066 ch.:  0.050
+It.:  14Obj.:    0.0236 Vol.:  0.059 ch.:  0.050
+It.:  15Obj.:    0.0210 Vol.:  0.052 ch.:  0.050
+It.:  16Obj.:    0.0195 Vol.:  0.047 ch.:  0.050
+It.:  17Obj.:    0.0182 Vol.:  0.043 ch.:  0.050
+It.:  18Obj.:    0.0177 Vol.:  0.040 ch.:  0.050
+It.:  19Obj.:    0.0169 Vol.:  0.037 ch.:  0.050
+It.:  20Obj.:    0.0170 Vol.:  0.035 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.032255e-16. 
+It.:  21Obj.:    0.0165 Vol.:  0.034 ch.:  0.050
+It.:  22Obj.:    0.0169 Vol.:  0.033 ch.:  0.050
+It.:  23Obj.:    0.0163 Vol.:  0.032 ch.:  0.050
+It.:  24Obj.:    0.0169 Vol.:  0.032 ch.:  0.050
+It.:  25Obj.:    0.0163 Vol.:  0.031 ch.:  0.050
+It.:  26Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.196208e-16. 
+It.:  27Obj.:    0.0163 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.019566e-16. 
+It.:  28Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.039024e-16. 
+It.:  29Obj.:    0.0163 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.070036e-16. 
+It.:  30Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.026893e-16. 
+It.:  31Obj.:    0.0163 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.036298e-16. 
+It.:  32Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.025417e-16. 
+It.:  33Obj.:    0.0163 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.025306e-16. 
+It.:  34Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.029019e-16. 
+It.:  35Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.020478e-16. 
+It.:  36Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.032744e-16. 
+It.:  37Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.017264e-16. 
+It.:  38Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.002416e-16. 
+It.:  39Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.014895e-16. 
+It.:  40Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.004446e-16. 
+It.:  41Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.013146e-16. 
+It.:  42Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.005947e-16. 
+It.:  43Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.011853e-16. 
+It.:  44Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.007057e-16. 
+It.:  45Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.010898e-16. 
+It.:  46Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.007878e-16. 
+It.:  47Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.010192e-16. 
+It.:  48Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.008484e-16. 
+It.:  49Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.009671e-16. 
+It.:  50Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+2.008932e-16. 
+It.:  51Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693103e-16. 
+It.:  52Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693084e-16. 
+It.:  53Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692862e-16. 
+It.:  54Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693289e-16. 
+It.:  55Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692682e-16. 
+It.:  56Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693438e-16. 
+It.:  57Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692544e-16. 
+It.:  58Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693538e-16. 
+It.:  59Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692425e-16. 
+It.:  60Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693582e-16. 
+It.:  61Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692284e-16. 
+It.:  62Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693521e-16. 
+It.:  63Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692015e-16. 
+It.:  64Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.693184e-16. 
+It.:  65Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.691299e-16. 
+It.:  66Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.692017e-16. 
+It.:  67Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  68Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  69Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  70Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  71Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  72Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  73Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  74Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  75Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  76Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  77Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  78Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  79Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  80Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  81Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  82Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  83Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  84Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  85Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  86Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  87Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  88Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  89Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  90Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  91Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  92Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  93Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  94Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  95Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  96Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  97Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.:  98Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.:  99Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 100Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 101Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 102Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 103Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 104Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 105Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 106Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 107Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 108Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 109Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 110Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 111Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 112Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 113Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 114Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 115Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 116Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 117Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 118Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 119Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 120Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 121Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 122Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 123Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 124Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 125Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 126Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 127Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 128Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 129Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 130Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 131Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 132Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 133Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 134Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 135Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 136Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 137Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 138Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 139Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 140Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 141Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 142Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 143Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 144Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 145Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 146Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 147Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 148Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 149Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 150Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 151Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 152Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 153Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 154Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 155Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 156Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 157Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 158Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 159Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 160Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 161Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 162Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 163Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 164Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 165Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 166Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 167Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 168Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 169Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 170Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 171Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 172Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 173Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 174Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 175Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 176Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 177Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 178Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 179Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 180Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 181Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 182Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 183Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 184Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 185Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 186Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 187Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 188Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 189Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 190Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 191Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 192Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 193Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 194Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 195Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 196Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 197Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 198Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 199Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 200Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 201Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 202Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 203Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 204Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 205Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 206Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 207Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 208Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 209Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 210Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 211Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 212Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 213Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 214Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 215Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 216Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 217Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 218Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 219Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 220Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 221Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 222Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 223Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 224Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 225Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 226Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 227Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 228Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 229Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 230Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 231Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 232Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 233Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 234Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 235Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 236Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 237Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 238Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 239Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 240Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 241Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 242Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 243Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 244Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 245Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 246Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 247Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 248Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 249Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 250Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 251Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 252Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 253Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 254Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 255Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 256Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 257Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 258Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 259Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 260Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 261Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 262Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 263Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 264Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 265Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 266Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 267Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 268Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 269Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 270Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 271Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 272Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 273Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 274Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 275Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 276Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 277Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 278Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 279Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 280Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 281Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 282Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 283Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 284Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 285Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 286Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 287Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 288Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 289Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 290Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 291Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 292Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 293Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 294Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 295Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 296Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 297Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 298Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 299Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 300Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 301Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 302Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 303Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 304Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 305Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 306Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 307Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 308Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 309Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 310Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 311Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 312Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 313Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 314Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 315Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 316Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 317Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 318Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 319Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 320Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 321Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 322Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 323Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 324Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 325Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 326Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 327Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 328Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 329Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 330Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 331Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 332Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 333Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 334Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 335Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 336Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 337Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 338Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 339Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 340Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 341Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 342Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 343Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 344Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 345Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 346Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 347Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 348Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 349Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 350Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 351Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 352Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 353Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 354Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 355Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 356Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 357Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 358Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 359Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 360Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 361Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 362Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 363Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 364Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 365Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 366Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 367Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 368Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 369Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 370Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 371Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 372Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 373Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 374Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 375Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 376Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 377Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 378Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 379Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 380Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 381Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 382Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 383Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 384Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 385Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 386Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 387Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 388Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 389Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 390Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 391Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 392Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 393Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 394Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 395Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 396Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 397Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 398Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 399Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 400Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 401Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 402Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 403Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 404Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 405Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 406Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.687508e-16. 
+It.: 407Obj.:    0.0162 Vol.:  0.031 ch.:  0.050
+> In Top99_240_120>FE (line 142)
+  In Top99_240_120 (line 35) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =
+1.689153e-16. 
+It.: 408Obj.:    0.0169 Vol.:  0.031 ch.:  0.050
