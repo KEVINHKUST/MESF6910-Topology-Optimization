@@ -1,0 +1,160 @@
+DFGS = top3d_density_filter_gray_scale(120,20,20,0.2,3,1.5,1,2)
+ It.:    1 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+ It.:    2 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+ It.:    3 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  2.018211e-18. 
+ It.:    4 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.066086e-18. 
+ It.:    5 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.067834e-18. 
+ It.:    6 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.066169e-18. 
+ It.:    7 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:    8 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:    9 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   10 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   11 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   12 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   13 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   14 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   15 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   16 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   17 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   18 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   19 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   20 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   21 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   22 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   23 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   24 Obj.:     0.0000 Vol.:  0.200 ch.:  0.157
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   25 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   26 Obj.:     0.0000 Vol.:  0.200 ch.:  0.191
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   27 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   28 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   29 Obj.:     0.0000 Vol.:  0.200 ch.:  0.174
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   30 Obj.:     0.0000 Vol.:  0.200 ch.:  0.196
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   31 Obj.:     0.0000 Vol.:  0.200 ch.:  0.187
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   32 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   33 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   34 Obj.:     0.0000 Vol.:  0.200 ch.:  0.194
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   35 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   36 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   37 Obj.:     0.0000 Vol.:  0.200 ch.:  0.147
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   38 Obj.:     0.0000 Vol.:  0.200 ch.:  0.146
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   39 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   40 Obj.:     0.0000 Vol.:  0.200 ch.:  0.158
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   41 Obj.:     0.0000 Vol.:  0.200 ch.:  0.146
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   42 Obj.:     0.0000 Vol.:  0.200 ch.:  0.116
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   43 Obj.:     0.0000 Vol.:  0.200 ch.:  0.079
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   44 Obj.:     0.0000 Vol.:  0.200 ch.:  0.082
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   45 Obj.:     0.0000 Vol.:  0.200 ch.:  0.094
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   46 Obj.:     0.0000 Vol.:  0.200 ch.:  0.130
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   47 Obj.:     0.0000 Vol.:  0.200 ch.:  0.200
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   48 Obj.:     0.0000 Vol.:  0.200 ch.:  0.102
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   49 Obj.:     0.0000 Vol.:  0.200 ch.:  0.041
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   50 Obj.:     0.0000 Vol.:  0.200 ch.:  0.030
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   51 Obj.:     0.0000 Vol.:  0.200 ch.:  0.032
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   52 Obj.:     0.0000 Vol.:  0.200 ch.:  0.039
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   53 Obj.:     0.0000 Vol.:  0.200 ch.:  0.052
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   54 Obj.:     0.0000 Vol.:  0.200 ch.:  0.067
+> In top3d_density_filter_gray_scale (line 116) 
+Warning: Matrix is close to singular or badly scaled. Results may be inaccurate. RCOND =  1.033320e-18. 
+ It.:   55 Obj.:     0.0000 Vol.:  0.200 ch.:  0.008
