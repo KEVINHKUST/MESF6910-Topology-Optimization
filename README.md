@@ -7,8 +7,10 @@ his collegues in Technical University of Denmark.
 
 The four assignments and Mitterm project are talking about 2D-dimension topology optimization cases.
 The final project is related to 3D topology optimzation.
+All the assignments and projects description can be found in the certain file folders.
 
 Interested readers can refer to the following articles:
+
 1.Sigmund, O., 2001. A 99 line topology optimization code written in Matlab. Structural and multidisciplinary optimization, 21(2), 
 pp.120-127.
 
@@ -19,6 +21,7 @@ lines of code. Structural and Multidisciplinary Optimization, 43(1), pp.1-16.
 , 50(6), pp.1175-1196.
 
 Also more related information can be found at these two research group homepages
+
 1.TOPOPT group in DTU: http://www.topopt.mek.dtu.dk/
 
 2.Top3dapp in IUPUI: https://top3dapp.com/
